@@ -602,6 +602,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 09:00 AM ADAMS 519",
       "date": "2026-04-30",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -940,16 +950,15 @@
       }
     },
     {
-      "description": "(H) RESCIND ACTION (FAILED)AM 2 PASSED Y20 N19 E1",
+      "description": "(H) RESCIND ACTION (FAILING)AM 2 PASSED Y20 N19 E1",
       "date": "2026-05-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "failure",
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -1485,7 +1494,7 @@
       }
     },
     {
-      "description": "(H) RESCIND ACTION (FAILED)AM 25 FAILED Y20 N20",
+      "description": "(H) RESCIND ACTION (FAILING)AM 25 FAILED Y20 N20",
       "date": "2026-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -1493,7 +1502,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -2256,7 +2265,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:27:06.869826Z"
   }
 }

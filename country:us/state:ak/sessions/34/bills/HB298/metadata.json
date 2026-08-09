@@ -68,6 +68,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
       "description": "(H) JUDICIARY at 01:00 PM GRUENBERG 120",
       "date": "2026-03-16",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -85,6 +95,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -460,23 +480,13 @@
       }
     },
     {
-      "description": "(H) CONCUR MESSAGE RECEIVED",
+      "description": "(H) CONCUR MESSAGE RECEIVED AND TAKEN UP",
       "date": "2026-05-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
-      }
-    },
-    {
-      "description": "(H) CONCUR MESSAGE TAKEN UP",
-      "date": "2026-05-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -816,7 +826,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:29:33.671424Z"
   }
 }

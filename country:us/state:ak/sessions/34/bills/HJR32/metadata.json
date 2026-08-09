@@ -97,6 +97,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HHSS)",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
       "description": "(H) HSS RPT CS(HSS) NEW TITLE 6DP",
       "date": "2026-03-09",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -644,7 +654,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:43Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:22:10.732690Z"
   }
 }

@@ -772,17 +772,7 @@
       }
     },
     {
-      "description": "(H) MOTION FOR DEADLINE FOR ALL AMS AT 3:30 P.M. TODAY",
-      "date": "2026-05-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
-      }
-    },
-    {
-      "description": "(H) AMEND TO DEADLINE FOR ALL AMS TO 4:30 P.M. TODAY FAILED Y19 N21",
+      "description": "(H) AMEND DEADLINE FOR ALL AMS TO 4:30 P.M. TODAY FAILED Y19 N21",
       "date": "2026-05-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -790,7 +780,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -807,14 +797,14 @@
     },
     {
       "description": "(H) AM NO 8 FAILED Y17 N22 A1",
-      "date": "2026-05-16",
+      "date": "2026-07-22",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "amendment-failure"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -2140,7 +2130,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:09:07.361368Z"
   }
 }

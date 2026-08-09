@@ -977,23 +977,13 @@
       }
     },
     {
-      "description": "(H) ADJOURNED TO 5/19 CALENDAR",
+      "description": "(H) ADJOURNED AND HELD IN SECOND READING TO 5/19 CALENDAR",
       "date": "2026-05-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
-      }
-    },
-    {
-      "description": "(H) HELD IN SECOND READING TO 5/19 CALENDAR",
-      "date": "2026-05-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -2074,7 +2064,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:05:35.176308Z"
   }
 }

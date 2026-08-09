@@ -876,6 +876,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-05-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ANCH LIO DENALI Rm",
       "date": "2026-06-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -2074,6 +2084,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SHB381)",
+      "date": "2026-06-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
       "description": "(S) CONFERENCE COMMITTEE ON HB381 at 02:00 PM SENATE FINANCE 532",
       "date": "2026-06-27",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -2396,6 +2416,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HHB381)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
       "description": "(S) CONFERENCE COMMITTEE ON HB381 at 08:00 AM SENATE FINANCE 532",
       "date": "2026-07-16",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -2413,6 +2443,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SHB381)",
+      "date": "2026-07-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     }
   ],
@@ -3752,7 +3792,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:14:22.653023Z"
   }
 }

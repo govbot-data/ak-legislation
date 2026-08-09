@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "(H) CBRF SECTION(S) (FAILED) Y24 N16",
+    "description": "(H) CBRF SECTION(S) FAILED Y24 N16",
     "occurred_at": "2026-02-23",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "34",

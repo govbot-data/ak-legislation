@@ -216,6 +216,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-02-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2026-02-06",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -373,6 +383,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -683,6 +703,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -727,6 +757,16 @@
     },
     {
       "description": "(H) Heard & Held -- Recessed to 3:45 P.M. --",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:53:44Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HFIN)",
       "date": "2026-03-11",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -1916,7 +1956,7 @@
       }
     },
     {
-      "description": "(H) RESCIND ACTION (FAILED) AM 28 FAILED Y19 N21",
+      "description": "(H) RESCIND ACTION (FAILING)AM 28 FAILED Y19 N21",
       "date": "2026-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -1924,7 +1964,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -2072,15 +2112,13 @@
       }
     },
     {
-      "description": "(H) RESCIND ACTION (PASSED RECON) UC",
+      "description": "(H) RESCINDED ACTION (PASSAGE RECON) UC",
       "date": "2026-04-14",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
@@ -2942,7 +2980,17 @@
       }
     },
     {
-      "description": "(H) CC RPT ADOPTED Y21 N19 CCS HB 263",
+      "description": "(H) CC REPORT ADOPTED Y21 N19 CCS HB 263",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:47:15Z"
+      }
+    },
+    {
+      "description": "(H) EFFECTIVE DATE(S) ADOPTED Y40",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -2952,7 +3000,7 @@
       }
     },
     {
-      "description": "(H) CBRF SECTION(S) (FAILED) Y21 N19",
+      "description": "(H) CBRF SECTION(S) FAILED Y21 N19",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -2960,21 +3008,11 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-09T08:47:15Z"
       }
     },
     {
       "description": "(H) ...CHANGES TITLE OF LEGISLATION",
-      "date": "2026-05-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
-      }
-    },
-    {
-      "description": "(H) EFFECTIVE DATE(S) ADOPTED Y40",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -4865,7 +4903,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-08-09T08:47:15Z",
     "text_extraction_latest_update": "2026-07-21T19:39:40.379261Z"
   }
 }
