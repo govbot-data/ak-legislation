@@ -684,24 +684,38 @@
     },
     {
       "description": "(S) 11:05 A.M. 7/20/26 Transmitted to Governor",
-      "date": "2026-07-20",
+      "date": "2026-07-27",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "executive-receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-08-11T08:58:41Z"
       }
     },
     {
-      "description": "(S) DUE BACK FROM GOVERNOR 8/12/26",
-      "date": "2026-07-20",
+      "description": "(S) LAW W/O GOV SIGNATURE 8/10 CH 59 SLA 26",
+      "date": "2026-08-10",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "became-law"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-08-11T08:58:41Z"
+      }
+    },
+    {
+      "description": "(S) EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:58:41Z"
       }
     }
   ],
@@ -1017,7 +1031,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-11T08:58:41Z",
     "text_extraction_latest_update": "2026-07-21T19:44:06.420589Z"
   }
 }

@@ -528,16 +528,6 @@
       }
     },
     {
-      "description": "(H) BEFORE HOUSE IN SECOND READING",
-      "date": "2026-05-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
-      }
-    },
-    {
       "description": "(H) AM NO 2 NOT OFFERED",
       "date": "2026-05-17",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -712,13 +702,15 @@
       }
     },
     {
-      "description": "(S) AWAITING TRANSMITTAL TO GOV",
-      "date": "2026-05-18",
+      "description": "(S) 9:25 A.M. 7/23/26 Transmitted to Governor",
+      "date": "2026-07-27",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "executive-receipt"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
+        "log_file_created": "2026-08-11T08:58:41Z"
       }
     },
     {
@@ -729,6 +721,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(S) LAW W/O GOV SIGNATURE 8/10 CH 60 SLA 26",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:58:41Z"
+      }
+    },
+    {
+      "description": "(S) EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
+      "date": "2026-08-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-11T08:58:41Z"
       }
     }
   ],
@@ -1237,7 +1253,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-08-11T08:58:41Z",
     "text_extraction_latest_update": "2026-07-21T19:20:44.869047Z"
   }
 }
