@@ -431,6 +431,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T09:17:04Z"
+      }
+    },
+    {
       "description": "(H) FIN RPT CS(FIN) 6DP 1DNP 4AM",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1105,6 +1115,17 @@
       "links": [
         {
           "url": "http://www.akleg.gov/basis/get_documents.asp?session=34&docid=16256",
+          "media_type": "pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB 261 Conceptual Amendment 1 to Amendment 2  Bynum 050526",
+      "links": [
+        {
+          "url": "https://www.akleg.gov/basis/get_documents.asp?session=34&docid=16909",
           "media_type": "pdf"
         }
       ],
@@ -1936,7 +1957,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:43Z",
+    "logs_latest_update": "2026-08-12T09:17:04Z",
     "text_extraction_latest_update": "2026-07-21T19:36:05.221483Z"
   }
 }
