@@ -154,6 +154,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HCRA)",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T09:15:21Z"
+      }
+    },
+    {
       "description": "(H) LABOR & COMMERCE at 03:15 PM BARNES 124",
       "date": "2026-03-23",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -490,7 +500,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-11T08:58:41Z",
+    "logs_latest_update": "2026-08-14T09:15:21Z",
     "text_extraction_latest_update": "2026-08-11T08:59:26.727182Z"
   }
 }
