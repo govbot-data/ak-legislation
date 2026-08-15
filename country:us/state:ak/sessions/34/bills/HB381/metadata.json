@@ -1274,6 +1274,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SFIN)",
+      "date": "2026-06-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T08:37:23Z"
+      }
+    },
+    {
       "description": "(S) FINANCE at 09:00 AM SENATE FINANCE 532",
       "date": "2026-06-16",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -3792,7 +3802,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:47:15Z",
+    "logs_latest_update": "2026-08-15T08:37:23Z",
     "text_extraction_latest_update": "2026-08-09T08:48:10.677162Z"
   }
 }

@@ -177,6 +177,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SRES)",
+      "date": "2026-02-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-15T08:37:23Z"
+      }
+    },
+    {
       "description": "(S) RESOURCES at 03:30 PM BUTROVICH 205",
       "date": "2026-03-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -728,7 +738,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-08-15T08:37:23Z",
     "text_extraction_latest_update": "2026-07-21T18:58:50.387720Z"
   }
 }
