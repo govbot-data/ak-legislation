@@ -956,6 +956,16 @@
       }
     },
     {
+      "description": "(H) TO LEGAL SERVICES",
+      "date": "2026-06-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T08:41:58Z"
+      }
+    },
+    {
       "description": "(S) JOINT SESSION at 01:00 PM HOUSE CHAMBER",
       "date": "2026-06-19",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -966,13 +976,25 @@
       }
     },
     {
-      "description": "(H) TO LEGAL SERVICES",
-      "date": "2026-06-22",
+      "description": "(H) ASSIGNED CHAPTER 24 SLA 26",
+      "date": "2026-08-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-08-18T08:41:58Z"
+      }
+    },
+    {
+      "description": "(H) EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T08:41:58Z"
       }
     }
   ],
@@ -1759,7 +1781,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-18T08:41:58Z",
     "text_extraction_latest_update": "2026-07-21T19:26:07.567367Z"
   }
 }
