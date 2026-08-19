@@ -212,6 +212,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SL&C)",
+      "date": "2026-03-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T08:43:59Z"
+      }
+    },
+    {
       "description": "(S) L&C RPT 3DP",
       "date": "2026-03-16",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -935,7 +945,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:47:15Z",
+    "logs_latest_update": "2026-08-19T08:43:59Z",
     "text_extraction_latest_update": "2026-08-09T08:48:10.671861Z"
   }
 }
