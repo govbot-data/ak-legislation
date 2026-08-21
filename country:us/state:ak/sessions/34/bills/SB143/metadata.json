@@ -469,6 +469,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
+      }
+    },
+    {
       "description": "(H) RULES TO CALENDAR 5/13/2026",
       "date": "2026-05-13",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -696,26 +706,26 @@
     },
     {
       "description": "(S) LAW W/O GOV SIGNATURE 8/10 CH 59 SLA 26",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "became-law"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-11T08:58:41Z"
+        "log_file_created": "2026-08-21T08:45:29Z"
       }
     },
     {
       "description": "(S) EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "became-law"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-11T08:58:41Z"
+        "log_file_created": "2026-08-21T08:45:29Z"
       }
     }
   ],
@@ -1031,7 +1041,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-11T08:58:41Z",
+    "logs_latest_update": "2026-08-21T08:45:29Z",
     "text_extraction_latest_update": "2026-08-11T08:59:26.876135Z"
   }
 }

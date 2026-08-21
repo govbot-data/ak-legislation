@@ -130,6 +130,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
+      }
+    },
+    {
       "description": "(H) EDUCATION at 08:00 AM DAVIS 106",
       "date": "2026-03-16",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -147,6 +157,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
       }
     }
   ],
@@ -299,7 +319,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-21T08:45:29Z",
     "text_extraction_latest_update": "2026-07-21T19:34:27.430887Z"
   }
 }

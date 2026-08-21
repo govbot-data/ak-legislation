@@ -502,6 +502,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
+      }
+    },
+    {
       "description": "(H) EDUCATION at 08:00 AM DAVIS 106",
       "date": "2026-04-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -519,6 +529,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
       }
     },
     {
@@ -569,6 +589,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
       }
     },
     {
@@ -639,6 +669,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
       }
     },
     {
@@ -765,16 +805,6 @@
     },
     {
       "description": "(H) AM NO 2 OFFERED AND PENDING",
-      "date": "2026-05-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
-      }
-    },
-    {
-      "description": "(H) BEFORE HOUSE IN SECOND READING",
       "date": "2026-05-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -1618,7 +1648,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-08-21T08:45:29Z",
     "text_extraction_latest_update": "2026-07-21T19:08:57.332236Z"
   }
 }

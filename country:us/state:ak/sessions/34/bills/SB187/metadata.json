@@ -386,6 +386,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
+      }
+    },
+    {
       "description": "(H) CROSS SPONSOR(S): EISCHEID",
       "date": "2026-04-30",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -984,7 +994,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-21T08:45:29Z",
     "text_extraction_latest_update": "2026-07-21T19:33:46.871191Z"
   }
 }

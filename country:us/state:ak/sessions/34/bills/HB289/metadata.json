@@ -991,6 +991,16 @@
       }
     },
     {
+      "description": "(S) RECON SAME DAY UC",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:45:29Z"
+      }
+    },
+    {
       "description": "(S) PASSED ON RECONSIDERATION Y20 N-",
       "date": "2026-03-11",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -2030,7 +2040,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:47:15Z",
+    "logs_latest_update": "2026-08-21T08:45:29Z",
     "text_extraction_latest_update": "2026-08-09T08:48:10.960312Z"
   }
 }
