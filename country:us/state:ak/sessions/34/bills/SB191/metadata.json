@@ -95,6 +95,16 @@
       }
     },
     {
+      "description": "(S) Minutes (STRA)",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T08:36:25Z"
+      }
+    },
+    {
       "description": "(S) TRA RPT 4DP",
       "date": "2026-02-06",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -105,13 +115,13 @@
       }
     },
     {
-      "description": "(S) DP: BJORKMAN, STEDMAN, KIEHL, TOBIN",
+      "description": "(S) DP: BJORKMAN, RAUSCHER, KIEHL, TOBIN",
       "date": "2026-02-06",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-08-22T08:36:25Z"
       }
     },
     {
@@ -402,7 +412,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-22T08:36:25Z",
     "text_extraction_latest_update": "2026-07-21T19:24:50.723018Z"
   }
 }
