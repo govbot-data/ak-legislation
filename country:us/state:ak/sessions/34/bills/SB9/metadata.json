@@ -861,23 +861,35 @@
       }
     },
     {
-      "description": "(S) AWAITING TRANSMITTAL TO GOV",
-      "date": "2026-05-19",
+      "description": "(S) MANIFEST ERROR(S)",
+      "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-25T08:48:08Z"
       }
     },
     {
-      "description": "(S) MANIFEST ERROR(S)",
-      "date": "2026-06-02",
+      "description": "(S) 12:30 P.M. 8/24/26 Transmitted to Governor",
+      "date": "2026-08-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T08:48:08Z"
+      }
+    },
+    {
+      "description": "(S) DUE BACK FROM GOVERNOR 9/10/26",
+      "date": "2026-08-24",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-08-25T08:48:08Z"
       }
     }
   ],
@@ -1820,7 +1832,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-08-25T08:48:08Z",
     "text_extraction_latest_update": "2026-07-21T19:11:43.135084Z"
   }
 }
