@@ -347,6 +347,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T08:54:25Z"
+      }
+    },
+    {
       "description": "(H) FIN RPT CS(STA) 5DP 1DNP 4NR",
       "date": "2026-05-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1334,7 +1344,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-08-26T08:54:25Z",
     "text_extraction_latest_update": "2026-07-21T19:52:02.632668Z"
   }
 }

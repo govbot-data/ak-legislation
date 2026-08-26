@@ -616,6 +616,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T08:54:25Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2026-05-16",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -3802,7 +3812,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-15T08:37:23Z",
+    "logs_latest_update": "2026-08-26T08:54:25Z",
     "text_extraction_latest_update": "2026-08-15T08:38:12.027623Z"
   }
 }
