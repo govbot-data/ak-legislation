@@ -432,6 +432,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T19:02:31Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2026-04-23",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -977,24 +987,24 @@
     },
     {
       "description": "(H) ASSIGNED CHAPTER 24 SLA 26",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T08:41:58Z"
+        "log_file_created": "2026-08-27T19:02:31Z"
       }
     },
     {
       "description": "(H) EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "became-law"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T08:41:58Z"
+        "log_file_created": "2026-08-27T19:02:31Z"
       }
     }
   ],
@@ -1781,7 +1791,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T08:41:58Z",
+    "logs_latest_update": "2026-08-27T19:02:31Z",
     "text_extraction_latest_update": "2026-08-18T08:42:46.809919Z"
   }
 }
