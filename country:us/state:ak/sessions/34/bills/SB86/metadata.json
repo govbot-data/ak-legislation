@@ -412,6 +412,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-02T13:06:43Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2026-04-28",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -463,12 +473,12 @@
     },
     {
       "description": "(H) TITLE CHANGE: HCR 17",
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:43Z"
+        "log_file_created": "2026-09-02T13:06:43Z"
       }
     },
     {
@@ -1161,7 +1171,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:43Z",
+    "logs_latest_update": "2026-09-02T13:06:43Z",
     "text_extraction_latest_update": "2026-07-21T19:16:34.291442Z"
   }
 }
