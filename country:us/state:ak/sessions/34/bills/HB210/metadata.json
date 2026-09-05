@@ -279,6 +279,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T12:14:35Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2026-04-29",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -427,25 +437,23 @@
       }
     },
     {
-      "description": "(H) RETURN SECOND/RESCIND ACTION AM 1 UC",
+      "description": "(H) RETURNED SECOND TO RESCIND ACTION ON AM 1 UC",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
+        "log_file_created": "2026-09-05T12:14:35Z"
       }
     },
     {
-      "description": "(H) RESCIND ACTION (FAILED)AM 1 UC",
+      "description": "(H) RESCINDED ACTION (FAILING)AM 1 UC",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "failure"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
+        "log_file_created": "2026-09-05T12:14:35Z"
       }
     },
     {
@@ -1043,7 +1051,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-09-05T12:14:35Z",
     "text_extraction_latest_update": "2026-07-21T19:52:22.436047Z"
   }
 }

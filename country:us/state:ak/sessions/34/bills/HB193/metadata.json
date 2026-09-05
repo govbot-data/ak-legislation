@@ -464,6 +464,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HFIN)",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T12:14:35Z"
+      }
+    },
+    {
       "description": "(H) FINANCE at 01:30 PM ADAMS 519",
       "date": "2026-04-24",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -807,14 +817,14 @@
     },
     {
       "description": "(H) AM NO 8 FAILED Y17 N22 A1",
-      "date": "2026-07-22",
+      "date": "2026-05-16",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "amendment-failure"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-09T08:47:15Z"
+        "log_file_created": "2026-09-05T12:14:35Z"
       }
     },
     {
@@ -2140,7 +2150,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T08:54:25Z",
+    "logs_latest_update": "2026-09-05T12:14:35Z",
     "text_extraction_latest_update": "2026-08-26T08:55:14.337787Z"
   }
 }
