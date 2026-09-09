@@ -1054,13 +1054,13 @@
       }
     },
     {
-      "description": "(S) RECON SAME DAY UC/VOTE-IN 3RD RDG",
+      "description": "(S) RECON SAME DAY UC - IN 3RD RDG",
       "date": "2026-05-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-09-09T13:20:13Z"
       }
     },
     {
@@ -1231,6 +1231,186 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:45Z"
+      }
+    },
+    {
+      "description": "(H) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN(S) ATTACHED TO APPROP. BILL HB 263",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN5: (ADM)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN7: (LAW)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN8: (LAW)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN10: ZERO(DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN11: ZERO(DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN12: (DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN13: (DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN14: (ADM)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN15: (ADM)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN16: (COR)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN17: INDETERMINATE(COR)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN18: (COR)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN19: ZERO(DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN20: ZERO(DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN21: ZERO(DPS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN22: (AJS)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
       }
     }
   ],
@@ -2274,7 +2454,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:47:15Z",
+    "logs_latest_update": "2026-09-09T13:20:13Z",
     "text_extraction_latest_update": "2026-08-09T08:48:10.657697Z"
   }
 }

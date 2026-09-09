@@ -590,6 +590,36 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:53:44Z"
       }
+    },
+    {
+      "description": "(H) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN(S) ATTACHED TO APPROP. BILL HB 263",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN1: (EED)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -898,7 +928,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T08:45:29Z",
+    "logs_latest_update": "2026-09-09T13:20:13Z",
     "text_extraction_latest_update": "2026-08-21T08:46:18.591683Z"
   }
 }

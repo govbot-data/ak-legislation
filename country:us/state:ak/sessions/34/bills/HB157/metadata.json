@@ -246,6 +246,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
       "description": "(H) JUDICIARY at 01:00 PM GRUENBERG 120",
       "date": "2026-05-08",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -578,7 +588,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-09-09T13:20:13Z",
     "text_extraction_latest_update": "2026-07-21T18:58:39.929962Z"
   }
 }

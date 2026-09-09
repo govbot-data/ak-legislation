@@ -665,24 +665,64 @@
     },
     {
       "description": "(H) ASSIGNED CHAPTER 23 SLA 26",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T08:41:58Z"
+        "log_file_created": "2026-09-09T13:20:13Z"
       }
     },
     {
       "description": "(H) EFFECTIVE DATE(S) OF LAW SEE CHAPTER",
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "became-law"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-08-18T08:41:58Z"
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN(S) ATTACHED TO APPROP. BILL HB 263",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN1: (CED)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
+    },
+    {
+      "description": "(H) FN2: ZERO(DEC)",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
       }
     }
   ],
@@ -1185,7 +1225,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T08:41:58Z",
+    "logs_latest_update": "2026-09-09T13:20:13Z",
     "text_extraction_latest_update": "2026-08-18T08:42:46.830710Z"
   }
 }

@@ -105,6 +105,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:53:45Z"
       }
+    },
+    {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -244,7 +254,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T08:41:58Z",
+    "logs_latest_update": "2026-09-09T13:20:13Z",
     "text_extraction_latest_update": "2026-08-18T08:42:46.819057Z"
   }
 }
