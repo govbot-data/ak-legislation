@@ -2033,6 +2033,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:53:44Z"
       }
+    },
+    {
+      "description": "(H) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T13:14:42Z"
+      }
     }
   ],
   "sponsorships": [
@@ -2577,7 +2587,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T13:20:13Z",
+    "logs_latest_update": "2026-09-11T13:14:42Z",
     "text_extraction_latest_update": "2026-09-09T13:21:04.491713Z"
   }
 }

@@ -621,6 +621,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T13:14:42Z"
+      }
+    },
+    {
       "description": "(H) CROSS SPONSOR(S): TOMASZEWSKI",
       "date": "2026-04-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -893,13 +903,27 @@
       }
     },
     {
-      "description": "(S) DUE BACK FROM GOVERNOR 9/16/26",
-      "date": "2026-08-24",
+      "description": "(S) Signed into law 9/9 CHAPTER 61 SLA 26",
+      "date": "2026-09-09",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "executive-signature"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-09-09T13:20:13Z"
+        "log_file_created": "2026-09-11T13:14:42Z"
+      }
+    },
+    {
+      "description": "(S) EFFECTIVE DATE(S) OF LAW 9/10/26",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T13:14:42Z"
       }
     }
   ],
@@ -1842,7 +1866,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T13:20:13Z",
+    "logs_latest_update": "2026-09-11T13:14:42Z",
     "text_extraction_latest_update": "2026-09-09T13:21:04.466709Z"
   }
 }
