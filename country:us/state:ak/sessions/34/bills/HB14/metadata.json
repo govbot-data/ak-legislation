@@ -412,6 +412,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SHSS)",
+      "date": "2026-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:34:59Z"
+      }
+    },
+    {
       "description": "(S) HEALTH & SOCIAL SERVICES at 03:30 PM BUTROVICH 205",
       "date": "2026-05-05",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1291,7 +1301,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-09-12T12:34:59Z",
     "text_extraction_latest_update": "2026-07-21T19:00:37.845189Z"
   }
 }

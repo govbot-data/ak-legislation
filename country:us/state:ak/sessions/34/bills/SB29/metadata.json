@@ -767,6 +767,16 @@
       }
     },
     {
+      "description": "(S) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-12T12:34:59Z"
+      }
+    },
+    {
       "description": "(H) FN(S) ATTACHED TO APPROP. BILL HB 263",
       "date": "2026-09-08",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1154,7 +1164,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T13:14:42Z",
+    "logs_latest_update": "2026-09-12T12:34:59Z",
     "text_extraction_latest_update": "2026-09-11T13:15:31.303742Z"
   }
 }

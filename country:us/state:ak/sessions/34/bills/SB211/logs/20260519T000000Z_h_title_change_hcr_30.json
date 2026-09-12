@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "(H) TITLE CHANGE HCR 30",
+    "description": "(H) TITLE CHANGE: HCR 30",
     "occurred_at": "2026-05-19",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "34",
