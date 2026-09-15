@@ -124,6 +124,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HCRA)",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T13:26:26Z"
+      }
+    },
+    {
       "description": "(H) CRA RPT 1DP 3DNP 1NR 2AM",
       "date": "2026-03-20",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -409,7 +419,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T08:45:29Z",
+    "logs_latest_update": "2026-09-15T13:26:26Z",
     "text_extraction_latest_update": "2026-08-21T08:46:18.483804Z"
   }
 }
