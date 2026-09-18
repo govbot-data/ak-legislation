@@ -135,6 +135,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:53:45Z"
       }
+    },
+    {
+      "description": "(H) Minutes (HL&C)",
+      "date": "2026-02-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:19:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -348,7 +358,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T13:26:26Z",
+    "logs_latest_update": "2026-09-18T13:19:37Z",
     "text_extraction_latest_update": "2026-09-15T13:27:19.231735Z"
   }
 }

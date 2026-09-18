@@ -322,6 +322,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HL&C)",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:19:37Z"
+      }
+    },
+    {
       "description": "(H) L&C RPT CS(L&C) NEW TITLE 3DP 1NR 2AM",
       "date": "2026-02-18",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1018,16 +1028,6 @@
       }
     },
     {
-      "description": "(H) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
-      "date": "2026-09-08",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-09-09T13:20:13Z"
-      }
-    },
-    {
       "description": "(S) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
       "date": "2026-09-08",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1035,6 +1035,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-12T12:34:59Z"
+      }
+    },
+    {
+      "description": "(H) LEG FINANCE APPROPRIATION MESSAGE 9/8/26",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-09T13:20:13Z"
       }
     },
     {
@@ -1841,7 +1851,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-15T13:26:26Z",
+    "logs_latest_update": "2026-09-18T13:19:37Z",
     "text_extraction_latest_update": "2026-09-15T13:27:19.269163Z"
   }
 }

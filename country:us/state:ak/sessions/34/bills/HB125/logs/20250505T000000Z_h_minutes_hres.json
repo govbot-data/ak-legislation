@@ -1,13 +1,11 @@
 {
   "action": {
-    "description": "(H) RESCIND ACTION (ADOPTING)RES CS PASSED Y21 N19",
-    "occurred_at": "2025-05-14",
+    "description": "(H) Minutes (HRES)",
+    "occurred_at": "2025-05-05",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "34",
     "entity_type": "bill",
-    "classifications": [
-      "passage"
-    ],
+    "classifications": [],
     "related_entities": [],
     "sources": [
       {

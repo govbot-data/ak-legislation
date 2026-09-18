@@ -284,6 +284,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HRES)",
+      "date": "2025-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T13:19:37Z"
+      }
+    },
+    {
       "description": "(H) RES RPT CS(RES) NEW TITLE 4DP 1DNP 2NR 2AM",
       "date": "2025-05-07",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -458,7 +468,7 @@
       }
     },
     {
-      "description": "(H) RESCIND ACTION (ADOPTED) RES CS PASSED Y21 N19",
+      "description": "(H) RESCIND ACTION (ADOPTING)RES CS PASSED Y21 N19",
       "date": "2025-05-14",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -466,7 +476,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:45Z"
+        "log_file_created": "2026-09-18T13:19:37Z"
       }
     },
     {
@@ -1510,7 +1520,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:45Z",
+    "logs_latest_update": "2026-09-18T13:19:37Z",
     "text_extraction_latest_update": "2026-07-21T18:58:07.098953Z"
   }
 }
