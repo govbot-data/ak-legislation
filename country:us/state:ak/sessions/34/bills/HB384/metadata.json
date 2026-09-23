@@ -152,6 +152,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HJUD)",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
+      }
+    },
+    {
       "description": "(H) JUD RPT 5DP",
       "date": "2026-04-29",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -366,7 +376,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:43Z",
+    "logs_latest_update": "2026-09-23T13:55:02Z",
     "text_extraction_latest_update": "2026-07-21T19:22:49.450152Z"
   }
 }

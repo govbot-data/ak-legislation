@@ -624,6 +624,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SSTA)",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
+      }
+    },
+    {
       "description": "(S) STATE AFFAIRS at 10:00 AM BUTROVICH 205",
       "date": "2026-05-02",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -854,13 +864,13 @@
       }
     },
     {
-      "description": "(H) RESCIND ACTION CONCURRENCE UC",
+      "description": "(H) RESCINDED ACTION (CONCURRENCE) UC",
       "date": "2026-05-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-09-23T13:55:02Z"
       }
     },
     {
@@ -896,7 +906,7 @@
       }
     },
     {
-      "description": "(H) LAW W/O GOV SIGNATURE 6/22 CH 25 SLA 26",
+      "description": "(H) LAW W/O GOVERNOR SIGNATURE 6/22 CHAPTER 25 SLA 26",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -904,7 +914,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-09-23T13:55:02Z"
       }
     },
     {
@@ -1546,7 +1556,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-09-23T13:55:02Z",
     "text_extraction_latest_update": "2026-07-21T19:44:19.676811Z"
   }
 }

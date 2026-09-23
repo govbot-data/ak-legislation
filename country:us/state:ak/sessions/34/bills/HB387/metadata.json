@@ -95,6 +95,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HEDC)",
+      "date": "2026-05-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
+      }
+    },
+    {
       "description": "(H) EDUCATION at 08:00 AM DAVIS 106",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -391,7 +401,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-21T08:45:29Z",
+    "logs_latest_update": "2026-09-23T13:55:02Z",
     "text_extraction_latest_update": "2026-08-21T08:46:18.455831Z"
   }
 }

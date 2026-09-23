@@ -80,6 +80,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SSTA)",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
+      }
+    },
+    {
       "description": "(S) STATE AFFAIRS at 03:30 PM BELTZ 105 (TSBldg)",
       "date": "2026-03-31",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -97,6 +107,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(S) Minutes (SSTA)",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
       }
     },
     {
@@ -450,13 +470,13 @@
       }
     },
     {
-      "description": "(H) RETURN TO (S), TRANSMIT TO GOV NEXT",
+      "description": "(H) RETURN TO (S), TRANSMIT TO GOVERNOR NEXT",
       "date": "2026-05-12",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:46Z"
+        "log_file_created": "2026-09-23T13:55:02Z"
       }
     },
     {
@@ -490,6 +510,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HSTA)",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
+      }
+    },
+    {
       "description": "(S) MANIFEST ERROR(S)",
       "date": "2026-06-09",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -519,6 +549,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:53:46Z"
+      }
+    },
+    {
+      "description": "(S) PERMANENTLY FILED 9/22 LEGIS RESOLVE 34",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T13:55:02Z"
       }
     }
   ],
@@ -686,7 +726,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:46Z",
+    "logs_latest_update": "2026-09-23T13:55:02Z",
     "text_extraction_latest_update": "2026-07-21T19:49:34.941038Z"
   }
 }
