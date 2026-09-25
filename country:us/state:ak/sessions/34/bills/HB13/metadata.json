@@ -654,6 +654,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SSTA)",
+      "date": "2026-05-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-25T14:02:54Z"
+      }
+    },
+    {
       "description": "(S) CROSS SPONSOR(S): YUNDT, KAWASAKI, BJORKMAN, DUNBAR",
       "date": "2026-05-13",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -1556,7 +1566,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T13:55:02Z",
+    "logs_latest_update": "2026-09-25T14:02:54Z",
     "text_extraction_latest_update": "2026-09-23T13:55:52.873028Z"
   }
 }
