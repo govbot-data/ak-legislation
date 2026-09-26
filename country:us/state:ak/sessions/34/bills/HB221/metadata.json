@@ -324,6 +324,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SSTA)",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T13:18:58Z"
+      }
+    },
+    {
       "description": "(S) STA RPT 2DP 2NR",
       "date": "2026-05-11",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -452,13 +462,13 @@
       }
     },
     {
-      "description": "(S) RETURN TO (H), TRANSMIT TO GOV NEXT",
+      "description": "(S) RETURN TO (H), TRANSMIT TO GOVERNOR NEXT",
       "date": "2026-05-15",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-09-26T13:18:58Z"
       }
     },
     {
@@ -484,7 +494,7 @@
       }
     },
     {
-      "description": "(H) LAW W/O GOV SIGNATURE 6/30 CH 51 SLA 26",
+      "description": "(H) LAW W/O GOVERNOR SIGNATURE 6/30 CHAPTER 51 SLA 26",
       "date": "2026-07-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -492,7 +502,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:53:44Z"
+        "log_file_created": "2026-09-26T13:18:58Z"
       }
     },
     {
@@ -882,7 +892,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:53:44Z",
+    "logs_latest_update": "2026-09-26T13:18:58Z",
     "text_extraction_latest_update": "2026-07-21T19:01:42.927775Z"
   }
 }

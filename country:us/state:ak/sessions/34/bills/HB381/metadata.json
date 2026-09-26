@@ -2494,6 +2494,26 @@
       "_processing": {
         "log_file_created": "2026-08-09T08:47:15Z"
       }
+    },
+    {
+      "description": "(H) ENGROSSED",
+      "date": "2026-09-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T13:18:58Z"
+      }
+    },
+    {
+      "description": "(H) PERMANENTLY FILED IN THE (H)",
+      "date": "2026-09-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T13:18:58Z"
+      }
     }
   ],
   "sponsorships": [
@@ -3832,7 +3852,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-11T13:14:42Z",
+    "logs_latest_update": "2026-09-26T13:18:58Z",
     "text_extraction_latest_update": "2026-09-11T13:15:31.295096Z"
   }
 }

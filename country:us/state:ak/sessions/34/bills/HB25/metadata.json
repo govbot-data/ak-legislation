@@ -824,6 +824,16 @@
       }
     },
     {
+      "description": "(S) Minutes (SSTA)",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T13:18:58Z"
+      }
+    },
+    {
       "description": "(S) STA RPT 2DP 2NR",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -2288,7 +2298,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T13:55:02Z",
+    "logs_latest_update": "2026-09-26T13:18:58Z",
     "text_extraction_latest_update": "2026-09-23T13:55:52.889438Z"
   }
 }

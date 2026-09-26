@@ -202,6 +202,16 @@
       }
     },
     {
+      "description": "(H) Minutes (HSTA)",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-26T13:18:58Z"
+      }
+    },
+    {
       "description": "(H) STATE AFFAIRS at 03:15 PM GRUENBERG 120",
       "date": "2026-04-07",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -540,7 +550,7 @@
     "division_id": "ocd-division/country:us/state:ak"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-23T13:55:02Z",
+    "logs_latest_update": "2026-09-26T13:18:58Z",
     "text_extraction_latest_update": "2026-09-23T13:55:52.607305Z"
   }
 }
